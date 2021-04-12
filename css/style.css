@@ -11,6 +11,7 @@ html{
     display:flex;
     width:100%;
     padding:0;
+    position:fixed;
 }
 .xy{
     margin-left:15px;
@@ -47,3 +48,18 @@ html{
 
 
 /* -------------------------------- IZBORNIK KRAJ ---------------------- */
+
+
+
+
+/* -------------------------------- HOMEPAGE POCETAK ---------------------- */
+
+#bgpic{
+    width:100%;
+    height:937px;
+}
+
+
+
+
+/* -------------------------------- HOMEPAGE KRAJ ---------------------- */
