@@ -1,0 +1,51 @@
+body{
+    font-family:gunplay regular ;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+#navbar{
+    background:black;
+    height:48px;
+    display:flex;
+    width:100%;
+    padding:0;
+}
+.xy{
+    margin-left:15px;
+}
+
+#drop a{
+    color:white;
+}
+
+.nav-link:hover{
+    box-shadow: 0 2px aliceblue;
+}
+
+
+#searchbtn:hover{
+    background:white;
+    border:1px solid white;
+    color:#87CEFA;
+}
+.dropdown-menu.show ul{
+    margin:0;
+}
+
+.container-fluid{
+    padding:0;
+}
+
+#searchbtn{
+    color:white;
+    border:1px solid white;
+}
+
+.dropdown-menu.show {
+    background:#6CB4EE;
+}
+.dropdown-item:hover{
+    background:#6CB4EE;
+}
