@@ -57,6 +57,16 @@ html{
 #bgpic{
     width:100%;
     height:937px;
+    position:relative;
+}
+#homebg{
+    height:937px;
+}
+
+#homebg h1,h3{
+    display:flex;
+    justify-content: center;
+    
 }
 
 
