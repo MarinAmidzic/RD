@@ -60,14 +60,21 @@ html{
 }
 #homebg{
     height:937px;
-    background-image: url(/rd/media/bg.jpg);
+    background-image: url(/RD/media/bg.png);
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     padding:0;
     background-size: cover;
-
+}
+#homebg h1{
+    font-size: 6rem;
+    color:white;
+}
+#homebg h3{
+    font-size:3rem;
+    color:white;
 }
 
 
