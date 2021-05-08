@@ -16,8 +16,7 @@ html{
 .xy{
     margin-left:15px;
 }
-
-#drop a{
+#navbar a{
     color:white;
 }
 
@@ -26,25 +25,9 @@ html{
 }
 
 
-#searchbtn:hover{
-    background:white;
-    border:1px solid white;
-    color:#87CEFA;
-}
-.dropdown-menu.show ul{
-    margin:0;
-}
-
 .container-fluid{
     padding:0;
 }
-
-#searchbtn{
-    color:white;
-    border:1px solid white;
-}
-
-
 
 
 /* -------------------------------- IZBORNIK KRAJ ---------------------- */
